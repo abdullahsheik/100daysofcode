@@ -26,4 +26,4 @@ elif extra_cheese == "N":
     bill+=0
 else:
     print("Wrong option")
-print("Your final bill is:", {bill})
+print(f"Your final bill is: ${bill}.")
